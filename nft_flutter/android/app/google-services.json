@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "568278140615",
+    "project_id": "blockchain-nft-2021",
+    "storage_bucket": "blockchain-nft-2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568278140615:android:3e805be1796be343c6a0e2",
+        "android_client_info": {
+          "package_name": "com.example.nft_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568278140615-nmq4e18osduovfmng2ttlvfp7q9eke8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQVz4uxxyRsKAO_NeZtzYnOBdMydsJD2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568278140615-nmq4e18osduovfmng2ttlvfp7q9eke8q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "568278140615-jk9ba0acbih3dvppu0110jse5makqhge.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nftFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
