@@ -195,3 +195,4 @@ Software Betails
 -
 
 3.2  Protocols
+We will use protocols to regulate the tissue procurement collection
